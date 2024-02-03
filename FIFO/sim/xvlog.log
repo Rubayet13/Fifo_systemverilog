@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/rubayet/Desktop/FIFO/rtl/fifo.sv" into library work
+INFO: [VRFC 10-311] analyzing module fifo
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/rubayet/Desktop/FIFO/tb/tb_top/fifo_interface.sv" into library work
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/rubayet/Desktop/FIFO/tb/agent/agent_pkg.sv" into library work
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/rubayet/Desktop/FIFO/tb/environment/env_pkg.sv" into library work
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/rubayet/Desktop/FIFO/tb/tb_top/fifo_tb_top.sv" into library work
+INFO: [VRFC 10-311] analyzing module tb
